@@ -10,7 +10,7 @@ function App() {
       <View style={styles.root}>
         <View style={styles.iconContainer}>
         <Icon name="add-outline" size={30} color="red"/>
-        <Text>Add</Text>
+        <Text>Add data</Text>
         </View>
       <View style={styles.iconContainer}>
       <Entymo name="rocket" size={30} color="red"/>
